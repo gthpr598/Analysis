@@ -3,7 +3,7 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "8d47df93",
+   "id": "ecc26ef8",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -13,7 +13,7 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "3cb99a91",
+   "id": "f2a672a7",
    "metadata": {},
    "outputs": [],
    "source": [
@@ -22,8 +22,18 @@
   },
   {
    "cell_type": "code",
+   "execution_count": 3,
+   "id": "a24716aa",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "import seaborn as sns"
+   ]
+  },
+  {
+   "cell_type": "code",
    "execution_count": null,
-   "id": "be4cdea4",
+   "id": "1b118e89",
    "metadata": {},
    "outputs": [],
    "source": []
